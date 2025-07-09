@@ -1,0 +1,12 @@
+venv*/
+.env*/
+build/
+dist/
+*.spec
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db
+*.idea/
+*.vscode/
